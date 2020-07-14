@@ -1,2 +1,2 @@
-# Typing-speed
+# Typing-test
 Created with CodeSandbox
